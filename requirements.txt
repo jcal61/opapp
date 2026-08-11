@@ -1,8 +1,0 @@
-sqlalchemy==2.0.36
-pydantic==2.10.4
-pydantic-settings==2.7.0
-streamlit==1.41.1
-pandas==2.2.3
-plotly==5.24.1
-python-dateutil==2.9.0.post0
-rich==13.9.4
